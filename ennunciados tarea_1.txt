@@ -1,0 +1,7 @@
+/*tarea 1*/
+/*mostrar el nombre del atleta y su medalla correspondiente*/
+
+/*mostrar el nombre del deportista y su sexo*/
+
+/*id del atleta y pais de origen*/
+
